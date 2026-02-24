@@ -22,7 +22,7 @@ A simple, responsive privacy policy website for applications using WhatsApp Busi
 5. Select source as "Deploy from a branch"
 6. Choose "main" branch and "/ (root)" folder
 7. Click Save
-8. Your site will be available at `https://yourusername.github.io/repositoryname`
+8. Your site will be available at `https://HimanshuHeda.github.io/Privacy-Policy-Whatsapp`
 
 ### Vercel Deployment
 
