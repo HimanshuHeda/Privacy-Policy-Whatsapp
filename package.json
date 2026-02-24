@@ -1,0 +1,21 @@
+{
+  "name": "privacy-policy-whatsapp",
+  "version": "1.0.0",
+  "description": "Privacy Policy for WhatsApp Business API Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "privacy-policy",
+    "whatsapp",
+    "business-api",
+    "static-site"
+  ],
+  "author": "himanshuheda123@email.com",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
